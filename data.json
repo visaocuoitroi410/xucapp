@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "1",
+    "title": "5 điều nam giới thường hiểu sai về sex",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Một đời sống tình dục viên mãn nghĩa là quan hệ ít nhất 3 lần một tuần?",
+        "image": "file:///android_asset/cat1/1.jpg",
+        "options": [
+          {
+            "title": "A. Đúng",
+            "description": "Bạn có chắc rằng các anh chàng khác làm “chuyện ấy” thường xuyên hơn bạn? Rất có thể họ cũng nghĩ về bạn như thế. Sai lầm ở đây là so sánh đời sống tình dục của bạn với một người lý tưởng nào đó. Bạn hãy quên mọi người xung quanh nói gì. Vấn đề ở đây là bạn và người ấy muốn như thế nào.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai"
+          }
+        ]
+      },
+      {
+        "title": "Tắt đèn có thể khiến nàng hưng phấn hơn?",
+        "options": [
+          {
+            "title": "A. Đúng",
+            "description": "Bạn có chắc rằng các anh chàng khác làm “chuyện ấy” thường xuyên hơn bạn? Rất có thể họ cũng nghĩ về bạn như thế. Sai lầm ở đây là so sánh đời sống tình dục của bạn với một người lý tưởng nào đó. Bạn hãy quên mọi người xung quanh nói gì. Vấn đề ở đây là bạn và người ấy muốn như thế nào.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai"
+          }
+        ]
+      },
+      {
+        "title": "Phần lớn phụ nữ nói rằng họ giả vờ đạt cực khoái?",
+        "options": [
+          {
+            "title": "A. Đúng",
+            "description": "Lý do là vì họ không muốn tổn thương người đàn ông của mình. Rất nhiều nam giới tự tạo cho mình áp lực rất lớn là giúp nàng đạt được cực khoái. Sự thực thì bạn hãy thoải mái. Nếu thấy thoải mái, cô ấy sẽ không phải giả vờ.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai"
+          }
+        ]
+      },
+      {
+        "title": "Điều gì có thể giúp cải thiện tâm trạng của cô ấy?",
+        "options": [
+          {
+            "title": "A. Hôn"
+          },
+          {
+            "title": "B. Tán tỉnh"
+          },
+          {
+            "title": "C. Rửa bát",
+            "isCorrect": true
+          },
+          {
+            "title": "D. Tất cả những việc trên",
+            "description": "Phần lớn nam giới cho rằng màn dạo đầu là chìa khóa. Tuy nhiên, họ có thể không làm đủ lâu. Bạn hãy nghĩ rằng màn dạo đầu đó kéo dài vài giờ thậm chí cả ngày trước khi bạn quan hệ. Điều đó bao gồm tất cả việc có thể khiến cô ấy thấy thư giãn và gần gũi với bạn.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Để tivi trong phòng ngủ không tốt cho đời sống tình dục?",
+        "options": [
+          {
+            "title": "A. Đúng",
+            "description": "Bạn thích xem tivi khi nằm trên giường và sau đó quen dần với việc quan hệ tình dục ít đi. Một nghiên cứu của Italy chỉ ra rằng những cặp để tivi trong phòng ngủ thường có số lần làm “chuyện ấy” ít hơn một nửa so với những cặp không. Vì thế, bạn hãy bố trí phòng ngủ chỉ để ngủ và làm tình; hãy để những thứ khác của cuộc sống bên ngoài cánh cửa.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai"
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 1,
+        "description": "Bạn nên dành nhiều thời gian để tìm hiểu thêm thông tin"
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 4,
+        "to": 4,
+        "description": "Rất tốt. Bạn hiểu biết nhiều, hãy tiếp tục tìm hiểu thêm."
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "description": "Tuyệt vời. Bạn hiểu biết rất nhiều."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Trắc nghiệm bạn hiểu thế nào về thuốc tránh thai",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Hiệu quả bảo vệ của thuốc viên tránh thai kết hợp là bao nhiêu?",
+        "options": [
+          {
+            "title": "A. 100%"
+          },
+          {
+            "title": "B. 99%",
+            "description": "Hiệu quả của thuốc tránh thai hàng ngày là 91%. Nếu sử dụng chính xác như chỉ dẫn, con số này sẽ tăng lên 99%. Bạn cần tham khảo ý kiến bác sĩ để sử dụng đúng cách.",
+            "isCorrect": true
+          },
+          {
+            "title": "C. 85%"
+          },
+          {
+            "title": "D. 80%"
+          }
+        ]
+      },
+      {
+        "title": "Ngoài tác dụng tránh thai, thuốc viên tránh thai kết hợp còn có tác dụng gì?",
+        "options": [
+          {
+            "title": "A. Ổn định chu kỳ kinh nguyệt, giảm mất máu ngày đèn đỏ nên tránh được thiếu máu thiếu sắt"
+          },
+          {
+            "title": "B. Một số loại giúp giảm mụn trứng cá và da nhờn"
+          },
+          {
+            "title": "C. Giảm các bệnh lý vùng chậu"
+          },
+          {
+            "title": "D. Giảm thiểu nguy cơ mắc các bệnh ung thư buồng trứng, ung thư nội mạc tử cung"
+          },
+          {
+            "title": "E. Tất cả các tác dụng trên",
+            "description": "Thuốc viên tránh thai kết hợp còn mang lại các lợi ích khác như ổn định chu kỳ kinh nguyệt; giảm thiếu máu thiếu sắt; giảm mụn trứng cá và da nhờn; giảm các bệnh lý vùng chậu; giảm thiểu nguy cơ mắc các bệnh ung thư buồng trứng, ung thư nội mạc tử cung.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Thuốc viên tránh thai kết hợp gây tác dụng phụ nào dưới đây?",
+        "options": [
+          {
+            "title": "A. Gây ảnh hưởng đến sức khỏe sinh sản và thai nhi trong tương lai"
+          },
+          {
+            "title": "B. Gây ung thư"
+          },
+          {
+            "title": "C. Đau đầu nhẹ, buồn nôn, căng tức ngực",
+            "description": "Trong 1-2 vỉ đầu, một số phụ nữ có thể thấy ra máu giữa kỳ kinh, nhức đầu nhẹ, buồn nôn, căng tức ngực. Những triệu chứng này xảy ra khi cơ thể đang điều chỉnh để thích ứng với nồng độ nội tiết mới trong viên thuốc tránh thai. Các triệu chứng này không giống nhau ở tất cả mọi người và phụ thuộc vào từng loại thuốc sử dụng. Thông thường, chúng sẽ giảm dần và mất đi ở những vỉ thuốc kế tiếp. Những nghiên cứu về thuốc viên tránh thai kết hợp cho thấy thuốc không gây ảnh hưởng đến khả năng sinh sản của chị em phụ nữ và sức khỏe thai nhi, cũng như thuốc giúp giảm nguy cơ ung thư nói chung",
+            "isCorrect": true
+          },
+          {
+            "title": "D. Không có tác dụng phụ nào"
+          }
+        ]
+      },
+      {
+        "title": "Trên thế giới, thuốc viên tránh thai kết hợp đã xuất hiện bao lâu?",
+        "options": [
+          {
+            "title": "A. Hơn 20 năm"
+          },
+          {
+            "title": "B. Hơn 30 năm"
+          },
+          {
+            "title": "C. Hơn 40 năm"
+          },
+          {
+            "title": "D. Hơn 50 năm",
+            "description": "Năm 1960, Cục Quản lý Thực phẩm và Dược phẩm Mỹ chính thức công nhận thuốc tránh thai là một biện pháp ngừa thai đường uống. Đến năm 2011, Tổ chức Y tế Thế giới WHO thống kê đã có hơn 100 triệu phụ nữ sử dụng thuốc viên tránh thai kết hợp.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Sử dụng thuốc viên tránh thai đúng cách mang lại cho phụ nữ lợi ích gì?",
+        "options": [
+          {
+            "title": "A. Thời gian để phát triển sự nghiệp"
+          },
+          {
+            "title": "B. Sự chủ động về tài chính"
+          },
+          {
+            "title": "C. Kế hoạch để nuôi dạy và chăm sóc con cái tốt hơn"
+          },
+          {
+            "title": "D. Thời gian chăm sóc bản thân và tận hưởng cuộc sống"
+          },
+          {
+            "title": "E. Tất cả các đáp án trên",
+            "description": "Sử dụng thuốc viên tránh thai đúng cách giúp phụ nữ chủ động thời điểm sinh con, khoảng cách các lần sinh thích hợp khi sức khỏe, tài chính và công việc ổn định. Nhờ đó, người phụ nữ sẽ sinh được những đứa con khỏe mạnh; mau chóng lấy lại sức khỏe để trở lại công việc; có thời gian học tập, rèn luyện phát triển sự nghiệp; ổn định về tài chính, đủ điều kiện để chăm sóc bản thân; nuôi dạy và chăm sóc con cái được tốt hơn.",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 1,
+        "description": "Bạn nên dành nhiều thời gian để tìm hiểu thêm thông tin"
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 4,
+        "to": 4,
+        "description": "Rất tốt. Bạn hiểu biết nhiều, hãy tiếp tục tìm hiểu thêm."
+      },
+      {
+        "from": 5,
+        "to": 5,
+        "description": "Tuyệt vời. Bạn hiểu biết rất nhiều."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Trắc nghiệm giới tính thật trong con người bạn",
+    "type": "",
+    "lstQuestions": [
+      {
+        "title": "Bạn thích biết hơn:",
+        "options": [
+          {
+            "title": "A. Gia đình của một người như thế nào"
+          },
+          {
+            "title": "B. Nhà của một người ở đâu"
+          }
+        ]
+      },
+      {
+        "title": "Với bạn, nói chuyện về thời tiết:",
+        "options": [
+          {
+            "title": "A. Thật là phí thời gian"
+          },
+          {
+            "title": "B. Một cách hay để phá vỡ sự im lặng"
+          }
+        ]
+      },
+      {
+        "title": "Bạn thích:",
+        "options": [
+          {
+            "title": "A. Giúp đỡ người khác"
+          },
+          {
+            "title": "B. Tự giúp mình"
+          }
+        ]
+      },
+      {
+        "title": "Nếu ai đó bạn vừa gặp nói về những cảm giác của họ, điều đó làm bạn cảm thấy:",
+        "options": [
+          {
+            "title": "A. Gần gũi hơn"
+          },
+          {
+            "title": "B. Khó chịu"
+          }
+        ]
+      },
+      {
+        "title": "Khi đi mua sắm, bạn:",
+        "options": [
+          {
+            "title": "A. Nhẩn nha ngắm nghía và cảm thấy rất thích thú"
+          },
+          {
+            "title": "B. Cố gắng mua càng nhanh càng tốt"
+          }
+        ]
+      },
+      {
+        "title": "Bạn có hay dành cho người khác những lời khen ngợi?",
+        "options": [
+          {
+            "title": "A. Có, với bạn nó đến một cách tự nhiên"
+          },
+          {
+            "title": "B. Không thực sự"
+          }
+        ]
+      },
+      {
+        "title": "Nếu bạn thành công khi làm điều gì đó rất khó, bạn:",
+        "options": [
+          {
+            "title": "A. Sẽ nói ngay với mọi người về điều đó"
+          },
+          {
+            "title": "B. Cảm thấy hơi ngại khi khoe khoang"
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 0,
+        "description": "Bên trong bạn là một người phụ nữ: Bạn rất nhạy cảm, chu đáo và sẵn sàng tiếp xúc với bất cứ ai cởi mở với mình. Bạn kết bạn dễ dàng và rất thích buôn chuyện. Bạn hiểu hầu hết mọi người bạn gặp tốt hơn là họ hiểu về chính mình. Bạn hoàn toàn là một phụ nữ hay ít nhất tâm hồn bạn là tâm hồn \"phái yếu\"."
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "description": "Bên trong, bạn là một người đàn ông: Bạn sống dựa trên lý trí và nghiêng về thực tế khi nhìn nhận mọi thứ. Bạn thích hoàn thành mọi việc mà không bị vướng bận bởi những cảm xúc phức tạp. Bạn thực sự không hiểu hầu hết phụ nữ và bạn cảm thấy thoải mái hơn khi tụ tập nhất là chè chén với đám đàn ông. Không nghi ngờ gì nữa, bạn đích thực là một chàng trai, ít nhất là về tâm hồn."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Trắc nghiệm về 'chuyện ấy' của bạn",
+    "type": "",
+    "lstQuestions": [
+      {
+        "title": "Thái độ của bạn với ‘chuyện ấy’ như thế nào?",
+        "options": [
+          {
+            "title": "A. Lúc nào tôi cũng thấy thiếu thốn thời gian gần chồng"
+          },
+          {
+            "title": "B. Tôi không thỏa mãn lắm với lần quan hệ gần đây"
+          },
+          {
+            "title": "C. Tôi thèm ngủ hơn thèm ‘yêu’"
+          },
+          {
+            "title": "D. Tôi chỉ thấy ham muốn vào đôi ba ngày trong tháng"
+          }
+        ]
+      },
+      {
+        "title": "Mô tả về tình trạng sức khỏe của bạn hiện tại?",
+        "options": [
+          {
+            "title": "A. Thỉnh thoảng căng thẳng và kiệt sức"
+          },
+          {
+            "title": "B. Đang mang bầu hoặc vừa sinh bé"
+          },
+          {
+            "title": "C. Tôi sắp bước vào tuổi mãn kinh"
+          },
+          {
+            "title": "D. Buồn chán"
+          }
+        ]
+      },
+      {
+        "title": "Nếu anh xã khởi xướng một kế hoạch ‘yêu’ tối nay, bạn sẽ…",
+        "options": [
+          {
+            "title": "A. Háo hức mong chờ"
+          },
+          {
+            "title": "B. Tắm rửa và chuẩn bị rượu vang"
+          },
+          {
+            "title": "C. Có thích thú nhưng lại lo lắng không biết diện trang phục gì khi ‘lên giường’"
+          },
+          {
+            "title": "D. Bạn muốn hủy bỏ kế hoạch này vì đau đầu"
+          }
+        ]
+      },
+      {
+        "title": "Nếu bạn gợi ý mà anh ấy kêu mệt, bạn sẽ…",
+        "options": [
+          {
+            "title": "A. Gào lớn lên rằng ‘Em cũng kiệt sức nhưng vẫn có thể chiều anh, sao anh thì không?’"
+          },
+          {
+            "title": "B. Cảm thấy hụt hẫng"
+          },
+          {
+            "title": "C. Tha thứ cho anh ấy nhưng không bao giờ quên"
+          },
+          {
+            "title": "D. Rời ‘chuyện ấy’ đến ngày nào đó và nhượng bộ nằm yên trong vòng tay ông xã."
+          }
+        ]
+      },
+      {
+        "title": "Gần đây, anh ấy thờ ơ trong chuyện chăn gối, bạn cảm thấy:",
+        "options": [
+          {
+            "title": "A. Thông cảm với vấn đề sức khỏe và tuổi tác ông xã"
+          },
+          {
+            "title": "B. Một chút buồn nhưng vẫn khó có thể chia sẻ chuyện này cùng đối phương"
+          },
+          {
+            "title": "C. Đau đớn với suy nghĩ mình không còn hấp dẫn chồng"
+          },
+          {
+            "title": "D. Thất vọng nhưng cũng không biết cải thiện tình hình bằng cách nào"
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 1,
+        "description": "Bạn dường như khá cởi mở và thành thực trong ‘chuyện ấy’. Chuyện chăn gối đóng vai trò quan trọng trong đời sống vợ chồng và bạn biết cách tổ chức vài bữa tiệc lãng mạn. \r\n \r\n Bạn muốn sống theo bản năng và cũng hy vọng đối phương biết cách đáp trả tương tự. Mặc dù cuộc sống có những lúc căng thẳng, stress nhưng bạn cũng tự biết cách điều chỉnh ổn thỏa sau đó."
+      },
+      {
+        "from": 2,
+        "to": 2,
+        "description": "Bạn cũng có khát khao yêu nhưng lại gặp khó khăn khi bày tỏ tâm tư của mình. Cảm giác thiếu hấp dẫn hoặc những lý do sức khỏe, tuổi tác khác ngăn cản ham muốn của bạn. Dù sao bạn cũng nên tin tưởng vào bản thân và hy vọng ở đối tác: Anh ấy thực sự cũng muốn làm bạn hài lòng."
+      },
+      {
+        "from": 3,
+        "to": 3,
+        "description": "Có vẻ như bạn rất ít ham muốn. Bạn cũng biết yêu quý bản thân và đối tác nhưng lại giảm hưng phấn rất nhiều. Tuy vậy, bạn cũng đừng quá lo lắng vì các mức độ ham muốn với mỗi phụ nữ là khác nhau. \r\n \r\n Điều quan trọng là bạn phải tìm được nguyên nhân gây ra điều này, chẳng hạn, bạn luôn stress, chán nản hay đang trong thời kỳ mãn kinh, mang thai, sinh nở... để tìm cách khắc phục."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Trả lời đúng 13 câu hỏi chứng tỏ bạn rất am hiểu sinh lý phụ nữ",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Trung bình một phụ nữ có bao nhiêu trứng?",
+        "image": "file:///android_asset/cat5/1.jpg",
+        "options": [
+          {
+            "title": "A. Từ 500.000 đến 700.000."
+          },
+          {
+            "title": "B. Một đến 2 triệu.",
+            "description": "Với nữ giới, số lượng trứng chỉ được sản xuất ra một lần trong đời. Ước tính trung bình một người sở hữu từ một đến 2 triệu trứng non (hay nang trứng) nằm trong buồng trứng. \r\n \r\n Trong suốt cuộc đời người nữ, số lượng trứng trên sẽ bị đào thải ra bên ngoài qua một quá trình gọi là sự hẹp lỗ. Quá trình này bắt đầu từ khi mới chào đời cho đến lúc sinh nở. Tại thời điểm thiếu nữ có vòng kinh đầu tiên, cơ thể chỉ còn trên dưới 400.000 nang trứng. \r\n \r\n Vào mỗi chu kỳ kinh nguyệt của nữ giới có hàng nghìn nang trứng bị mất đi, chỉ duy nhất một nang trứng nhỏ may mắn rụng. Nếu nang trứng này gặp tinh trùng sẽ tạo thành phôi thai. Đến giai đoạn mãn kinh (từ 48 - 85 tuổi) sẽ không còn trứng nào rụng hàng tháng nữa. Khi ấy, hiện tượng kinh nguyệt chấm dứt.",
+            "isCorrect": true
+          },
+          {
+            "title": "C. 2 đến 3 triệu."
+          },
+          {
+            "title": "D. Vô số."
+          }
+        ]
+      },
+      {
+        "title": "Đa số nữ giới có kinh nguyệt lần đầu tiên vào năm:",
+        "image": "file:///android_asset/cat5/2.jpg",
+        "options": [
+          {
+            "title": "A. 12 tuổi.",
+            "description": "Tùy vào cơ địa của mỗi người mà chu kỳ kinh nguyệt sẽ đến sớm hay muộn. Theo nghiên cứu ước tính độ tuổi trung bình của nữ giới xuất hiện \"đèn đỏ\" lần đầu tiên là 12 tuổi. Đến khoảng 50 tuổi, chu kỳ này sẽ biến mất.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. 13 tuổi."
+          },
+          {
+            "title": "C. 14 tuổi."
+          },
+          {
+            "title": "D. 15 tuổi."
+          }
+        ]
+      },
+      {
+        "title": "Nguồn gốc dẫn đến hiện tượng kinh nguyệt là:",
+        "image": "file:///android_asset/cat5/3.jpg",
+        "options": [
+          {
+            "title": "A. Bong tróc nội mạc tử cung."
+          },
+          {
+            "title": "B. Sự thay đổi về hormone.",
+            "description": "Tùy vào cơ địa của mỗi người mà chu kỳ kinh nguyệt sẽ đến sớm hay muộn. Theo nghiên cứu ước tính độ tuổi trung bình của nữ giới xuất hiện \"đèn đỏ\" lần đầu tiên là 12 tuổi. Đến khoảng 50 tuổi, chu kỳ này sẽ biến mất.",
+            "isCorrect": true
+          },
+          {
+            "title": "C. Trứng rụng."
+          },
+          {
+            "title": "D. Cả 3."
+          }
+        ]
+      },
+      {
+        "title": "Khoảng bao nhiêu phần trăm phụ nữ có chu kỳ kinh 28 ngày?",
+        "image": "file:///android_asset/cat5/4.jpg",
+        "options": [
+          {
+            "title": "A. 30%.",
+            "description": "Chu kỳ kinh ở phụ nữ có thể dao động từ 20 đến 40 ngày. Khoảng 30% có chu kỳ kinh 28 ngày. Số ngày \"đèn đỏ\" cũng khác nhau tùy từng người và từng tháng, trung bình từ 2 đến 7 ngày.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. 40%."
+          },
+          {
+            "title": "C. 50%."
+          },
+          {
+            "title": "D. 60%"
+          }
+        ]
+      },
+      {
+        "title": "Ngoài yếu tố bệnh lý, nguyên nhân khiến phụ nữ cảm thấy đau khi hành kinh là:",
+        "image": "file:///android_asset/cat5/5.jpg",
+        "options": [
+          {
+            "title": "A. Ăn uống không lành mạnh."
+          },
+          {
+            "title": "B. Yếu tố di truyền (gene)."
+          },
+          {
+            "title": "C. Tử cung co thắt.",
+            "description": "Đau bụng kinh chia làm 2 loại. Thứ nhất là đau bụng kinh nguyên phát, thường gặp ở những bạn gái mới bước vào tuổi dậy thì, kéo dài khoảng 2 đến 3 năm. Nguyên nhân phổ biến gây ra tình trạng này là sự co thắt quá mức của cơ trơn tử cung để đẩy máu kinh ra ngoài. Ngoài ra, một số người có cổ tử cung quá hẹp, tử cung ở vị trí không bình thường đều có thể gây đau bụng khi đến chu kỳ kinh. \r\n \r\n Thứ hai là đau bụng kinh thứ phát. Nguyên nhân thường gặp là bệnh lý lạc nội mạng tử cung, viêm vùng chậu, lạc nội mạc tử cung, u xơ tử cung, đặt vòng tránh thai... Ngoài ra còn có yếu tố di truyền. Các nghiên cứu cho thấy những bà mẹ bị đau bụng kinh thì con gái có nguy cơ bị đau bụng kinh cao hơn. Yếu tố thần kinh, tinh thần bất ổn cũng khiến cơn đau trở nên tồi tệ hơn.",
+            "isCorrect": true
+          },
+          {
+            "title": "D. Thay đổi hormone."
+          }
+        ]
+      },
+      {
+        "title": "Khi đang trong ngày \"đèn đỏ\" có thể quan hệ tình dục và chơi thể thao không?",
+        "image": "file:///android_asset/cat5/6.jpg",
+        "options": [
+          {
+            "title": "A. Có.",
+            "description": "Có thể quan hệ và tập thể dục khi đang trong ngày kinh, chỉ cần chú ý không nên vận động quá mạnh. Thậm chí, một số phụ nữ chia sẻ việc sex khi đang trong thời kỳ \"đèn đỏ\" còn thú vị hơn ngày thường bởi lượng hormone sinh dục nữ tăng mạnh và giúp dễ dàng lên đỉnh hơn. Nguy cơ đậu thai trong những ngày này tương đối thấp, các cặp vợ chồng không lo \"vỡ kế hoạch\" nên tâm lý cũng thoải mái hơn.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Không."
+          }
+        ]
+      },
+      {
+        "title": "Vào những ngày giữa chu kỳ kinh nguyệt, phụ nữ thường:",
+        "image": "file:///android_asset/cat5/7.jpg",
+        "options": [
+          {
+            "title": "A. Giảm hưng phấn tình dục."
+          },
+          {
+            "title": "B. Tăng hưng phấn tình dục.",
+            "description": "Progesterone được cho là thủ phạm làm giảm ham muốn tình dục ở nữ giới. Trong giai đoạn kinh nguyệt, cơ thể sản xuất ít progesterone hơn bình thường nên ham muốn tình dục của phụ nữ tăng mạnh hơn so với những ngày khác trong tháng.",
+            "isCorrect": true
+          },
+          {
+            "title": "C. Tất cả đều đúng."
+          }
+        ]
+      },
+      {
+        "title": "Yếu tố nào sau đây không được xem là dấu hiệu phổ biến báo hiệu chu kỳ kinh nguyệt sắp đến:",
+        "image": "file:///android_asset/cat5/8.jpg",
+        "options": [
+          {
+            "title": "A. Đau tức ngực."
+          },
+          {
+            "title": "B. Tăng nhiệt độ cơ thể."
+          },
+          {
+            "title": "C. Tăng dịch nhầy cổ tử cung."
+          },
+          {
+            "title": "D. Tăng ham muốn tình dục.",
+            "description": "Đau tức ngực, tăng nhiệt độ cơ thể và tăng dịch nhầy cổ tử cung là những thay đổi sinh học chuẩn bị cho việc sinh sản có thể xảy ra trước và trong chu kỳ kinh nguyệt. Một số người không cảm thấy có thay đổi cụ thể nào, số khác lại có triệu chứng dữ dội, thường gặp nhất là đau bụng dưới.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Chế độ dinh dưỡng và môi trường khiến các bé gái ngày càng xuất hiện kinh nguyệt sớm:",
+        "image": "file:///android_asset/cat5/9.jpg",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Vào khoảng thế kỷ 19, các bé gái thường có chu kỳ kinh nguyệt sau tuổi 16, 17. Các thiếu nữ ngày nay có kinh lần đầu ngày càng sớm hơn, nguyên nhân dẫn đến hiện tượng này là chế độ dinh dưỡng và môi trường sống.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Hai người nữ thân thiết với nhau, chu kỳ kinh nguyệt có xu hướng đến cùng lúc:",
+        "image": "file:///android_asset/cat5/10.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai."
+          },
+          {
+            "title": "B. Chưa có nghiên cứu.",
+            "description": "Dù có rất nhiều phụ nữ khẳng định rằng chu kỳ kinh nguyệt của họ và những người bạn gái thân thiết thường đến cùng lúc. Tuy nhiên cho đến nay chưa có nghiên cứu khoa học nào khẳng định lời đồn này đúng hay sai.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Quan hệ trong ngày \"đèn đỏ\", bạn sẽ không bị dính bầu:",
+        "image": "file:///android_asset/cat5/11.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Bạn có thể dính bầu khi quan hệ trong ngày \"đèn đỏ\". Dù rất hiếm, nhưng trường hợp này vẫn xảy ra vì tinh trùng có thể sống được trong môi trường âm đạo khoảng một tuần, sau đó nó gặp trứng rụng ở chu kỳ kinh nguyệt tiếp theo và thụ thai.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Phụ nữ không còn ham muốn tình dục sau khi mãn kinh:",
+        "image": "file:///android_asset/cat5/12.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Phụ nữ cũng như nam giới, nếu cơ thể khỏe mạnh bình thường, không bị ức chế về mặt tâm lý thì nhu cầu về tình dục gần như không có tuổi. Nhiều người có quan niệm sai lầm khi cho rằng phụ nữ mãn kinh không còn ham muốn tình dục. Có điều hầu hết nữ giới ở tuổi này đều bị khô âm đạo và họ thường tự ti về cơ thể mình. Để khắc phục, hãy duy trì tập thể dục hàng ngày, nghe nhạc, trang điểm và ăn mặc quý phái hơn. Khi \"yêu\" nên sử dụng chất bôi trơn hỗ trợ.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Chưa có nghiên cứu."
+          }
+        ]
+      },
+      {
+        "title": "Khi quan hệ ngoài, thiếu nữ chưa rách màng trinh thì không thể dính bầu:",
+        "image": "file:///android_asset/cat5/13.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Nghiên cứu cho thấy mỗi lần nam giới xuất tinh có khoảng 300.000 tinh trùng được giải phóng. Trước khi xuất tinh đã có một lượng nhỏ tinh trùng được giải phóng vào dịch nhờn tiết ra từ \"cậu nhỏ\". Một số bạn gái sau khi quan hệ ngoài, chưa bị rách màng trinh nhưng tinh trùng đã vượt qua lỗ màng trinh, đi vào tử cung, vòi trứng và kết hợp với trứng dẫn đến đậu thai. Tuy nhiên xác suất xảy ra tình huống này là rất thấp.",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 4,
+        "description": "Bạn nên dành nhiều thời gian để tìm hiểu thêm thông tin về phụ nữ"
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 8,
+        "to": 11,
+        "description": "Rất tốt. Bạn hiểu biết nhiều, hãy tiếp tục tìm hiểu thêm."
+      },
+      {
+        "from": 12,
+        "to": 13,
+        "description": "Tuyệt vời. Phải chăng bạn là một người phụ nữ."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Trả lời đúng 11 câu hỏi chứng tỏ bạn rất am hiểu sinh lý nam giới",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Nguyên nhân gây vô sinh ở nam giới phổ biến nhất là:",
+        "image": "file:///android_asset/cat6/1.jpg",
+        "options": [
+          {
+            "title": "A. Ung thư tinh hoàn."
+          },
+          {
+            "title": "B. Sự tắc nghẽn của ống dẫn tinh trùng từ tinh hoàn."
+          },
+          {
+            "title": "C. Tinh trùng có vấn đề.",
+            "description": "Khoảng 2/3 nam giới vô sinh gặp vấn đề về số lượng, chất lượng và khả năng di chuyển của tinh trùng. Những bất thường này có thể do tình trạng nhiễm trùng trước đây (chẳng hạn như bệnh quai bị), chấn thương ở tinh hoàn hay ảnh hưởng của thuốc và bức xạ. Dù vậy, nhiều trường hợp đi khám thường không xác định được nguyên nhân. Ngoài ra, tuổi tác, lối sống không lành mạnh và thói quen hút thuốc cũng ảnh hưởng tới chất lượng tinh trùng.",
+            "isCorrect": true
+          },
+          {
+            "title": "D. Lạm dụng bia rượu."
+          }
+        ]
+      },
+      {
+        "title": "Một người đàn ông được xem là bị rối loạn chức năng cương dương khi:",
+        "image": "file:///android_asset/cat6/2.jpg",
+        "options": [
+          {
+            "title": "A. Xuất tinh muộn."
+          },
+          {
+            "title": "B. Xuất tinh sớm."
+          },
+          {
+            "title": "C. Dương vật không thể cương cứng hay duy trì độ cương.",
+            "description": "Một người đàn ông được cho là bị rối loạn chức năng cương khi anh ta gặp trục trặc trong việc cương cứng hay duy trì độ cương. Do vậy không thể \"xâm nhập\" khi hành sự. \r\n \r\n Nguyên nhân gây ra tình trạng này thường là uống rượu bia quá nhiều, thiếu ngủ hay căng thẳng. Rối loạn cương thường xuyên hay nghiêm trọng có thể ảnh hưởng đến sức khỏe tổng thể của quý ông và đe dọa hạnh phúc lứa đôi. Vì vậy, nam giới gặp vấn đề này nên đi khám bác sĩ Nam khoa để được tư vấn và điều trị sớm.",
+            "isCorrect": true
+          },
+          {
+            "title": "D. Ít ham muốn sex."
+          }
+        ]
+      },
+      {
+        "title": "Rối loạn chức năng cương dương phổ biến như thế nào?",
+        "image": "file:///android_asset/cat6/3.jpg",
+        "options": [
+          {
+            "title": "A. Rất hiếm, thường chỉ gặp ở nam giới trên 70 tuổi."
+          },
+          {
+            "title": "B. Thường gặp, cứ 5 nam giới trên 40 tuổi có ít nhất một người bị.",
+            "description": "Nghiên cứu cho thấy rối loạn cương thường xảy ra với ít nhất 1/5 nam giới trên 40 tuổi. Tình trạng này tăng lên 2/3 ở đàn ông trên 70 tuổi.",
+            "isCorrect": true
+          },
+          {
+            "title": "C. Cứ 10 nam giới trên 40 tuổi có ít nhất một người bị."
+          },
+          {
+            "title": "D. Cứ 50 nam giới trên 40 tuổi có khoảng một người bị."
+          }
+        ]
+      },
+      {
+        "title": "Đến tuổi 50, bao nhiêu phần trăm nam giới gặp vấn đề về hói đầu?",
+        "image": "file:///android_asset/cat6/4.jpg",
+        "options": [
+          {
+            "title": "A. 50%.",
+            "description": "Rụng tóc là vấn đề phổ biến, tác động tới một nửa nam giới ở độ tuổi 50 và hơn 3/4 đàn ông trên 70 tuổi. Thuật ngữ y tế gọi tình trạng này là rụng tóc liên quan đến hormone androgen. Có nhiều cách điều trị hói bao gồm dùng thuốc hay thực phẩm bổ sung, song hầu hết nam giới phản hồi rằng ít hiệu quả.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. 55%."
+          },
+          {
+            "title": "C. 60%."
+          },
+          {
+            "title": "D. 70%"
+          }
+        ]
+      },
+      {
+        "title": "Tình trạng bụng phệ ở nam giới tuổi trung niên là không thể tránh được:",
+        "image": "file:///android_asset/cat6/5.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Bụng phệ ở nam giới tuổi trung niên là tình trạng phổ biến nhưng không phải không thể tránh được. Hầu hết đàn ông ở tuổi này có xu hướng ít vận động hơn, bên cạnh đó là sự thay đổi nội tiết khiến các thớ cơ trên cơ thể co lại và mỡ tập trung nhiều quanh vùng bụng. Gene có thể làm cho tình trạng này tốt hơn hay xấu đi, nhưng không phải là nguyên nhân chính. \r\n \r\n Để ngăn ngừa hay giảm tình trạng tích tụ mỡ thừa quanh bụng, bạn cần duy trì lượng cơ trên cơ thể bằng cách tập một số bài thể dục như nâng tạ, chống đẩy hay squat (đứng thẳng rồi hạ người xuống như tư thế ngồi ghế, đùi song song sàn nhà, lặp đi lặp lại như thế). Đặc biệt, cần giảm uống bia rượu để không bị \"bụng bia\".",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Nam giới thừa cân sẽ giảm khả năng có con:",
+        "image": "file:///android_asset/cat6/6.jpg",
+        "options": [
+          {
+            "title": "A. Sai."
+          },
+          {
+            "title": "B. Đúng.",
+            "description": "Thừa cân ảnh hưởng đến nồng độ testosterone và các hormone quan trọng liên quan đến khả năng sinh sản. Nam giới được xem là thừa cân nếu chỉ số khối cơ thể (BMI) từ 25 đến 30, béo phì nếu BMI trên 30. Đàn ông thừa cân có số lượng tinh trùng ít hơn và khả năng hoạt động của tinh trùng kém. Họ cũng có thể bị rối loạn cương.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Nam giới chỉ uống rượu hơn 2 ly mỗi ngày sẽ không ảnh hưởng đến khả năng sinh sản:",
+        "image": "file:///android_asset/cat6/7.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Nam giới uống hơn 2 ly rượu một ngày sẽ ảnh hưởng đến nồng độ testosterone, thể tích tinh dịch, số lượng và chất lượng tinh trùng. Nghiên cứu cho thấy có mối liên quan mật thiết giữa nồng độ rượu hấp thụ vào cơ thể và thể tích tinh dịch: Càng uống nhiều, thể tích tinh dịch càng ít. Vì vậy ngay cả khi chỉ uống một lượng vừa phải cũng có thể khiến đàn ông khó có con hơn.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Các bệnh lây truyền qua đường tình dục có thể gây vô sinh?",
+        "image": "file:///android_asset/cat6/8.jpg",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Các bệnh lây truyền qua đường tình dục chẳng hạn như chlamydia và lậu có thể làm giảm sản xuất tinh trùng. Trong đó một số bệnh không có biểu hiện triệu chứng. Nếu không điều trị triệt để, chúng có thể gây viêm vùng chậu, để lại những biến chứng lâu dài, thậm chí vô sinh.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Thủ dâm hay quan hệ nhiều có làm “cậu nhỏ” to thêm không?",
+        "image": "file:///android_asset/cat6/9.jpg",
+        "options": [
+          {
+            "title": "A. Có.",
+            "description": "Sự cương dương và kích thước khi cương phụ thuộc vào lượng máu đến và bị giam lại trong thể hang của dương vật. Cứ tưởng tượng, cậu nhỏ nam giới như một miếng xốp có rất nhiều hang. Bình thường các hang này xẹp, đây là trạng thái xìu. Khi có tín hiệu cho sự cương, lượng máu sẽ dồn đến và lấp đầy các hang này, giống như miếng xốp phồng ra khi thấm nước vậy. Các nghiên cứu đều cho thấy việc thủ dâm và quan hệ tình dục không làm cho \"cậu nhỏ\" gia tăng kích thước. \r\n \r\n Có thể đôi khi bạn cảm thấy sau nhiều lần quan hệ dương vật to ra, thực chất đó chỉ là quá trình phát triển bình thường của cơ thể chứ không phải do hoạt động tình dục. Trong một số trường hợp chỉ là ''cảm giác ảo'' của bạn mà thôi. Ngược lại, nếu lạm dụng hay quan hệ quá mức, cơ thể sẽ mệt mỏi, lúc này bản lĩnh nam giới thực sự sụt giảm.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Không."
+          }
+        ]
+      },
+      {
+        "title": "Tình trạng da quy đầu tuột lên khỏi quy đầu nhưng không tuột xuống được gọi là gì:",
+        "image": "file:///android_asset/cat6/10.jpg",
+        "options": [
+          {
+            "title": "A. Rối loạn chức năng cương dương."
+          },
+          {
+            "title": "B. Tinh hoàn ẩn."
+          },
+          {
+            "title": "C. Bệnh bán hẹp da quy đầu."
+          },
+          {
+            "title": "D. Bệnh hẹp bao quy đầu.",
+            "description": "Tình trạng da quy đầu tuột lên khỏi quy đầu nhưng không tuột xuống được, trong y văn gọi là bệnh bán hẹp da quy đầu.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Theo nghiên cứu, trung bình một người đàn ông sản xuất bao nhiêu tinh dịch trong suốt cuộc đời?",
+        "image": "file:///android_asset/cat6/11.jpg",
+        "options": [
+          {
+            "title": "A. Từ 10 đến 25 lít."
+          },
+          {
+            "title": "B. Từ 14 đến 53 lít.",
+            "description": "Số lượng tinh dịch sản xuất ra trong cả cuộc đời một người đàn ông phụ thuộc vào mức độ xuất tinh nhiều hay ít. Dựa vào nghiên cứu, các chuyên gia ước tính một người đàn ông sản xuất trung bình từ 14 đến 53 lít tinh dịch trong suốt cuộc đời của họ.",
+            "isCorrect": true
+          },
+          {
+            "title": "C. Từ 35 đến 60 lít."
+          },
+          {
+            "title": "D. Từ 40 đến 70 lít."
+          }
+        ]
+      },
+      {
+        "title": "Phụ nữ không còn ham muốn tình dục sau khi mãn kinh:",
+        "image": "file:///android_asset/cat5/12.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Phụ nữ cũng như nam giới, nếu cơ thể khỏe mạnh bình thường, không bị ức chế về mặt tâm lý thì nhu cầu về tình dục gần như không có tuổi. Nhiều người có quan niệm sai lầm khi cho rằng phụ nữ mãn kinh không còn ham muốn tình dục. Có điều hầu hết nữ giới ở tuổi này đều bị khô âm đạo và họ thường tự ti về cơ thể mình. Để khắc phục, hãy duy trì tập thể dục hàng ngày, nghe nhạc, trang điểm và ăn mặc quý phái hơn. Khi \"yêu\" nên sử dụng chất bôi trơn hỗ trợ.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Chưa có nghiên cứu."
+          }
+        ]
+      },
+      {
+        "title": "Khi quan hệ ngoài, thiếu nữ chưa rách màng trinh thì không thể dính bầu:",
+        "image": "file:///android_asset/cat5/13.jpg",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Nghiên cứu cho thấy mỗi lần nam giới xuất tinh có khoảng 300.000 tinh trùng được giải phóng. Trước khi xuất tinh đã có một lượng nhỏ tinh trùng được giải phóng vào dịch nhờn tiết ra từ \"cậu nhỏ\". Một số bạn gái sau khi quan hệ ngoài, chưa bị rách màng trinh nhưng tinh trùng đã vượt qua lỗ màng trinh, đi vào tử cung, vòi trứng và kết hợp với trứng dẫn đến đậu thai. Tuy nhiên xác suất xảy ra tình huống này là rất thấp.",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 3,
+        "description": "Phải chăng bạn là một thằng gay"
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 7,
+        "to": 9,
+        "description": "Rất tốt. Bạn hiểu biết nhiều, hãy tiếp tục tìm hiểu thêm."
+      },
+      {
+        "from": 10,
+        "to": 11,
+        "description": "Tuyệt vời. Bạn rất hiểu biết về đàn ông."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Trắc nghiệm 9 lỗi nam giới hay gặp khi sex",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Tắt đèn giúp phái nữ cởi mở hơn?",
+        "image": "file:///android_asset/cat7/1.jpg",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Nhiều chàng trai muốn quan hệ trong ánh đèn để có thể nhìn thấy rõ những gì họ đang làm. Tuy nhiên với đa số phụ nữ, đèn tắt sẽ giúp họ tập trung tận hưởng niềm vui và có cảm giác thư giãn hơn. Cần có sự thỏa thuận về việc bật hay tắt đèn khi làm chuyện ấy.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Đời sống tình dục lành mạnh có nghĩa là làm chuyện ấy ít nhất ba lần mỗi tuần?",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Không có số lượng cụ thể bao nhiêu là đúng cho chuyện sex. Bạn nghĩ rằng những chàng trai khác đang có quan hệ tình dục nhiều hơn bạn? Trên thực tế, họ cũng đang nghĩ về bạn giống như bạn nghĩ về họ. Sai lầm thường gặp là đi so sánh cuộc sống gối chăn của mình với một con số lý tưởng. Hãy tập trung vào những mong muốn của bạn và đối tác.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Hầu hết phụ nữ cho biết họ từng giả vờ cực khoái?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Lý do phổ biến nhất là gì? Họ không muốn làm tổn thương cảm xúc của phái mạnh. Nhiều người đàn ông đặt áp lực rất lớn vào việc đối tác của họ phải đạt được cực khoái. Hãy cố gắng thư giãn. Nếu phụ nữ thoải mái, họ sẽ cảm thấy không cần phải giả vờ lên đỉnh. Điều này sẽ giúp bạn hiểu rõ đối tác hơn.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Phụ nữ không thích phim khiêu dâm?",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Khá nhiều phụ nữ không thích phim khiêu dâm. Tuy nhiên không phải ai cũng như nhau. Điều này tùy thuộc vào đối tác của bạn. Nếu muốn cùng nhau xem phim khiêu dâm, hãy hỏi ý phái nữ và nhận tín hiệu từ cô ấy.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Đặt tivi trong phòng ngủ có thể làm giảm một nửa chất lượng đời sống tình dục?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Một nghiên cứu của Italy phát hiện rằng các cặp vợ chồng xem tivi trong phòng ngủ có chất lượng đời sống tình dục giảm một nửa so với bình thường. Nên thiết kế phòng ngủ chỉ dùng để ngủ và quan hệ tình dục. Hãy đặt phần còn lại của cuộc sống ở bên ngoài cánh cửa phòng ngủ.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Núm vú là vùng nhạy cảm, dễ bị kích thích nhất của phụ nữ?",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Cơ thể mỗi phụ nữ không giống nhau. Đôi khi vùng nhạy cảm của người này lại bình thường với người kia. Một số khu vực gây hưng phấn ở phụ nữ thường là núm vú, cổ, tai, bên trong đùi, âm vật… \r\n \r\n Cách tốt nhất để tìm thấy những vùng này là hãy thử các âu yếm, va chạm khác nhau trong màn dạo đầu cũng như khi quan hệ và xem cách cô ấy đáp ứng. Điều này cũng giúp tình cảm thăng hoa, mặn nồng hơn.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Chỉ cần ôm có thể giúp cải thiện đời sống tình dục?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Nghiên cứu cho thấy ôm một người phụ nữ 20 giây sẽ phát sinh hormone âu yếm oxytocin giúp tâm trạng đôi bên đều tốt hơn. Thói quen ôm, hôn, âu yếm giúp cải thiện chuyện chăn gối hiệu quả.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Các cặp đôi có thường lên đỉnh cùng lúc?",
+        "options": [
+          {
+            "title": "A. Mỗi lần quan hệ."
+          },
+          {
+            "title": "B. Thường xuyên."
+          },
+          {
+            "title": "C. Thỉnh thoảng."
+          },
+          {
+            "title": "D. Hiếm khi.",
+            "description": "Đừng lo lắng về việc cố gắng để cả hai đạt cực khoái cùng lúc. Hãy thay phiên nhau. Đưa phái đẹp lên đỉnh trước, sau đó đến lượt bạn tận hưởng nó. Điều này sẽ giúp cả hai đều được thỏa mãn và hạnh phúc.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Nếu phụ nữ sử dụng một chiếc máy rung, đây là điều báo hiệu mọi thứ đang tồi tệ?",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Không có gì nghiêm trọng khi phái đẹp muốn sử dụng đồ chơi tình dục. Hãy cởi mở về vấn đề này. Xem xét tới việc cùng nhau sử dụng trong vui vẻ. Rất nhiều đồ chơi tình dục được thiết kế, hỗ trợ cho các cặp vợ chồng cùng đạt được khoái cảm nhiều hơn.",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 3,
+        "description": "Bạn nên dành nhiều thời gian để tìm hiểu thêm thông tin"
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "description": "Rất tốt. Bạn hiểu biết nhiều, hãy tiếp tục tìm hiểu thêm."
+      },
+      {
+        "from": 8,
+        "to": 9,
+        "description": "Tuyệt vời. Bạn hiểu biết rất nhiều."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Bạn có hiểu đúng 7 bí mật về sức khỏe 'cậu nhỏ'?",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Kích thước “cậu nhỏ” tỷ lệ thuận với khả năng chăn gối?",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Kích thước thực sự không nói lên điều gì cả. Sự khác biệt về kích cỡ dương vật của người phương Đông không đáng kể, thường là khoảng từ 10 đến 15 cm. Có một sự thật mà ít nam giới chịu tin là kích thước của “cậu nhỏ” không ảnh hưởng tới khả năng sinh lý của phái mạnh, không phải càng to càng hữu ích như nhiều người làm tưởng. Một khảo sát năm 2016 chỉ ra có 85% phụ nữ hài lòng với kích thước “của quý” của người bạn đời. Vì vậy, nam giới có thể quẳng gánh lo đi và tận hưởng đời sống chăn gối thú vị.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Dương vật có thể bị gãy?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Mặc dù dương vật không có xương nhưng vẫn có thể bị gãy trong trạng thái cương cứng bỗng gãy gập đột ngột. Nguyên nhân thường do giao hợp quá mạnh bạo hoặc các ông có thói quen tự bẻ lúc cương cứng để nghe tiếng 'cốc' ở khớp trong cùng.Các nghiên cứu chỉ ra, tỷ lệ những quý ông trẻ tuổi gặp tai nạn này với 'cậu nhỏ' phổ biến hơn nam giới trung niên.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Sức khỏe của bạn liên quan mật thiết tới “cậu bé”?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Bạn gặp vấn đề trục trặc trong chuyện chỉ huy “cậu nhỏ”? Nhiều chuyên gia khuyên bạn nên để tâm đến lối sống của bản thân. Nếu duy trì thói quen sinh hoạt lành mạnh, ăn uống điều độ, tránh lạm dụng bia rượu, chất kích thích, bạn chắc chắn sẽ đem lại sức sống cho “cậu nhỏ”. Ngoài ra, các nghiên cứu chỉ ra, cân nặng tỷ lệ nghịch với lượng testosterol quy định khả năng cương cứng của “cậu nhỏ”. Điều này đồng nghĩa với một thân hình thừa cân, bụng phệ sẽ hạn chế bản lĩnh chốn phòng the hơn những nam giới cân đối. \r\n \r\n Vì thế, giữ chỉ số BMI khỏe mạnh chắc chắn luôn có lợi cho sự cương cứng. Bạn cần ngủ đủ giấc mỗi ngày và tập luyện thể dục đều đặn. Nghiên cứu chỉ ra, khi bạn kiệt sức, “cậu nhỏ” cũng yếu theo. Biết giới hạn sức mình và có một lịch “yêu” hợp lý là một trong những cách giúp bảo vệ sức khỏe cho “bộ máy yêu đương” vận hành trơn tru.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Bộ phận sinh dục cong sang một bên có là bình thường?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "\"Cậu bé\" của nam giới thường cong tự nhiên sang một bên đặc biệt là thời điểm khi cương cứng. Điều này là bình thường nên các quý ông đừng lo lắng.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "\"Cậu nhỏ\" có màu sắc hoàn toàn khác so với phần da còn lại của cơ thể là bình thường?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Phái mạnh không cần lăn tăn về màu sắc của bộ phận này bởi nó có thể sáng màu hay tối màu hơn so với màu da tổng thể. Thậm chí, ở một số nam giới, bản thân “cậu nhỏ”cũng không đều màu nhau, có những đốm sáng màu hơn phần còn lại.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Đốm trắng nhỏ li ti trên đầu dương vật có bình thường?",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Các đốm trắng như ngọc trai nổi trên bao quy đầu là hiện tượng bình thường. Ngoài ra, một số trường hợp xuất hiện mụn bọc trắng đầu dương vật do sự tiết bã nhờn hoặc chất tinh trùng còn tích tụ lại do chưa được vệ sinh sạch. Nam giới cần lưu tâm đến thói quen vệ sinh vùng kín để đảm bảo sức khỏe. Nếu quá lo lắng, bạn nên đến bác sĩ để kiểm tra.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Dương vật chỉ có một kiểu cương cứng?",
+        "options": [
+          {
+            "title": "A. Đúng."
+          },
+          {
+            "title": "B. Sai.",
+            "description": "Dương vật có 2 kiểu đặc trưng. Một loại có kích thước khá nhỏ và yếu ớt trong trạng thái bình thường nhưng khi “lâm trận” thì kích thước tăng gấp 2, 3 lần. Một loại khác bình thường có kích thước khá lớn nhưng ít thay đổi kích thước khi \"yêu\".",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 3,
+        "description": "Bạn nên dành nhiều thời gian để tìm hiểu thêm thông tin"
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "description": "Tuyệt vời. Bạn đã là nhà trym học."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Trắc nghiệm bạn có hiểu biết về 'chuyện ấy'",
+    "type": "YES-NO",
+    "lstQuestions": [
+      {
+        "title": "Thời khắc được cho là hoàn hảo nhất để làm 'chuyện ấy'?",
+        "image": "file:///android_asset/cat9/1.jpg",
+        "options": [
+          {
+            "title": "A. 3 giờ chiều.",
+            "description": "Theo chuyên gia nội tiết tố Alisa Vitti, người sáng lập ra các liệu pháp điều trị thông qua thực phẩm (ở Anh) thì 3 giờ chiều là thời điểm mà 'người đàn ông và phụ nữ bắt nhịp hài hòa với ham muốn của nhau'. \r\n \r\n Cụ thể, vào buổi chiều phụ nữ năng động nhất do nồng độ costisol, một loại hoóc môn giúp cơ thể cũng như đầu óc tỉnh táo nhất trong ngày. Cùng thời điểm đó, nam giới có nồng độ estrogen cao, chính vì thế sẽ giúp họ để ý đến 'cảm xúc hiện tại nhiều hơn' trong khi làm chuyện ấy. Vì lý do này, đây là thời điểm hoàn hảo để cả hai cùng 'lên đỉnh'.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. 7 giờ tối."
+          },
+          {
+            "title": "A. 10 giờ tối."
+          }
+        ]
+      },
+      {
+        "title": "Khoảng thời gian âu yếm cần thiết sau khi quan hệ là bao nhiêu?",
+        "image": "file:///android_asset/cat9/2.jpg",
+        "options": [
+          {
+            "title": "A. 4 phút."
+          },
+          {
+            "title": "B. 5 phút."
+          },
+          {
+            "title": "C. 6 phút.",
+            "description": "Các nhà nghiên cứu tình dục khuyến cáo khoảng thời gian âu yếm sau quan hệ nên kéo dài ít nhất 6 phút. Đây là cách dễ nhất để cải thiện mối quan hệ. Đó là một bước thực sự quan trọng nhưng lại thường bị nam giới bỏ qua. \r\n \r\n Sau khi quan hệ, phụ nữ thích được ve vuốt và cảm thấy hạnh phúc không kém màn dạo đầu.",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "title": "Những người đàn ông béo thường 'ân ái' lâu hơn những người gầy?",
+        "image": "file:///android_asset/cat9/3.jpg",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Các nhà khoa học từ Đại học Erciyes ở Kayseri, Thổ Nhĩ Kỳ đã tiến hành nghiên cứu và đưa ra kết luận: Những người đàn ông thừa cân và sở hữu vòng eo lớn có thời gian ân ái lâu hơn. \r\n \r\n Thời gian 'lâm trận' của họ kéo dài khoảng 7,3 phút trong khi những người đàn ông gầy chỉ kéo dài được khoảng 2 phút và dễ bị xuất tinh sớm. \r\n \r\n Các nhà khoa học lý giải, kết quả này có thể giải thích rằng những người đàn ông to lớn có lượng hormone estradiol cao vì các chất béo tăng lên xung quanh vùng bụng. Estradiol là một hormone sinh dục nữ, giúp ức chế khoái cảm cho nam giới khiến họ quan hệ lâu hơn.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Nam giới nghĩ về sex nhiều hơn phụ nữ mỗi ngày?",
+        "image": "file:///android_asset/cat9/4.jpg",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Các nhà khoa học từ Học viện Kinsey (Mỹ) đã khảo sát hai giới về tình dục. Kết quả, 54% đàn ông thừa nhận nghĩ về sex nhiều lần trong ngày, 43% chỉ vài lần mỗi tuần hoặc vài lần mỗi tháng, 4% ít hơn một lần một tháng. Trong khi đó, 19% phụ nữ nghĩ đến ái ân nhiều lần mỗi ngày, 67% vài lần mỗi tuần hoặc vài lần mỗi tháng, 14% ít hơn một lần một tháng. \r\n \r\n Một nghiên cứu khác đến từ nhóm các nhà khoa học từ Đại học Ohio cũng cho ra kết quả tương đồng. Ý nghĩ về quan hệ tình dục xuất hiện trung bình 19 lần tương đương mỗi 1,26 tiếng trong tâm trí đấng mày râu; nhiều hơn thức ăn (18 lần) và giấc ngủ (11 lần). Đối với phái đẹp, 'chuyện phòng the' không phải ưu tiên hàng đầu. Suốt 24 giờ, chị em nghĩ về thức ăn 15 lần, sex 10 lần và giấc ngủ 8,5 lần.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      },
+      {
+        "title": "Bộ ngực của phụ nữ sẽ thay đổi khi làm 'chuyện ấy'?",
+        "image": "file:///android_asset/cat9/5.jpg",
+        "options": [
+          {
+            "title": "A. Đúng.",
+            "description": "Tăng lưu lượng máu sẽ làm cho núm vú dựng lên và sẫm màu hơn. Đôi khi, việc quan hệ tình dục cũng giúp ngực phát triển hơn. \r\n \r\n Một nghiên cứu còn chỉ ra rằng khi phụ nữ bị kích thích, vòng ngực của họ sẽ lớn hơn 25% so với trước đó.",
+            "isCorrect": true
+          },
+          {
+            "title": "B. Sai."
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 3,
+        "description": "Bạn nên dành nhiều thời gian để tìm hiểu thêm thông tin"
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "description": "Không tồi chút nào. Bạn có thể tìm hiểu thêm và thử lại."
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "description": "Tuyệt vời. Bạn đã là nhà trym học."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Bạn là người nghiện sex?",
+    "type": "",
+    "lstQuestions": [
+      {
+        "title": "Bạn có mê mẩn “chuyện đó” bất kể thời gian, địa điểm hoặc bất kỳ đối tượng nào, ngay cả khi họ không tương thích với bạn?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn có bao giờ phải tự thề hoặc đặt ra những nguyên tắc nhằm kìm hãm khao khát tình dục của bản thân?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Từ lần đầu làm “chuyện ấy” đến giờ, bạn không thể nhớ nổi số lượng bạn tình của mình?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn thường lờ đi những hệ lụy trong chuyện đó như, không quan tâm đến chuyện mang thai ngoài ý muốn, các bệnh lây truyền qua đuờng tình dục hoặc thậm chí là HIV…?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn không thỏa mãn với chuyện “tự sướng”; ngay cả khi bạn tưởng tượng ra hàng chục đối tác, ở nhiều địa điểm khác nhau?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn cảm thấy mệt mỏi, kiệt sức chỉ vì bị “chuyện đó” hối thúc gây ám ảnh đầu óc?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn cảm thấy cuộc sống của mình mất kiểm soát bởi vì lúc nào cũng cần “chuyện ấy”?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn có dùng “chuyện đó” để giải quyết hoặc trốn chạy những khó khăn trong cuộc sống? Bạn cảm thấy “yêu” mới là khoảng thời gian thư giãn và có ý nghĩa nhất?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn đã bao giờ bị rạn nứt quan hệ hoặc phải chia tay chỉ vì không thỏa mãn với hành vi tình dục từ đối phương?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      },
+      {
+        "title": "Bạn có bị chuyện tình dục chi phối đời sống tinh thần không?",
+        "options": [
+          {
+            "title": "A. Có"
+          },
+          {
+            "title": "B. Không"
+          }
+        ]
+      }
+    ],
+    "lstRanks": [
+      {
+        "from": 0,
+        "to": 0,
+        "description": "Bạn nên xem xét lại đời sống tình dục của mình. Khi mọi chuyện bắt đầu nằm ngoài tầm kiểm soát, bạn nên nhờ đến sự trợ giúp của bác sĩ tâm lý, để thoát khỏi 'bóng đen' của tình dục."
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "description": "Tốt lắm. Bạn không phải là người cuồng dâm."
+      }
+    ]
+  }
+]
